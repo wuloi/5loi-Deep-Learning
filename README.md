@@ -1,6 +1,7 @@
 ## 全面掌握「Deep Learning 深度学习」
 
-<center><a href="https://theforage.cn/community"> <img src="Deep_Learning/images/DLI_Header.png" alt="AIPM🌿" style="width: 400px;"/> </a></center>
+![🐬5LOI's Deep Learning](Deep_Learning/images/DLI_Header.png)
+
 
 ### [AIPM 🌿 COMMUNITY 人工智能产品管理](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
@@ -28,4 +29,4 @@
 #### [加入社区 🌿 AIPM](https://www.theforage.cn/community)
 #### [与我联系 🐬 5LOI](https://5loi.com/about_loi)
 
-<center><a href="https://5loi.com/about_loi"> <img src="Deep_Learning/images/DLI_Header.png" alt="5LOI🐬" style="width: 400px;"/> </a></center>
+![🐬5LOI's Deep Learning Certificate](Deep_Learning/images/certificate.png)
